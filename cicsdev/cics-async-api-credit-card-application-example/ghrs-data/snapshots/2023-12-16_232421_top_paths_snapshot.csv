@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/cicsdev/cics-async-api-credit-card-application-example,5,4
+/cicsdev/cics-async-api-credit-card-application-example/tree/main/etc/CICS_bundles/cics-async-creditcardapplication-pipeline,5,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/etc/CICS_bundles/cics-async-creditcardapplication-pipeline/basicsoap11provider.xml,2,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/etc/CICS_bundles/cics-async-creditcardapplication-pipeline/HTTPWS.tcpipservice,2,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/etc/CICS_bundles/cics-async-creditcardapplication-pipeline/.project,2,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/etc/CICS_bundles/cics-async-creditcardapplication-pipeline/SOAPPROV.pipeline,2,1
+/cicsdev/cics-async-api-credit-card-application-example/tree/main/doc,2,1
+/cicsdev/cics-async-api-credit-card-application-example/tree/main/etc/CICS_bundles,2,1
