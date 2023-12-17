@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restapp-ext/tree/main/src/Cobol,11,2
+/cicsdev/cics-java-liberty-restapp-ext/blob/main/RunningLinkToLiberty.md,11,1
+/cicsdev/cics-java-liberty-restapp-ext,7,5
+/cicsdev/cics-java-liberty-restapp-ext/tree/main/src,5,2
+/cicsdev/cics-java-liberty-restapp-ext/blob/main/src/Cobol/GETSUPPL.cbl,4,1
+/cicsdev/cics-java-liberty-restapp-ext/blob/main/src/Cobol/LINK2SUP.cbl,4,1
+/cicsdev/cics-java-liberty-restapp-ext/tree/main/lib,3,1
+/cicsdev/cics-java-liberty-restapp-ext/blob/main/lib/com.ibm.cicsdev.restappext.generated.jar,2,1
+/cicsdev/cics-java-liberty-restapp-ext/blob/main/src/Cobol/ADDPART.cbl,2,1
+/cicsdev/cics-java-liberty-restapp-ext/blob/main/src/Cobol/LINK2SEC.cbl,2,1
