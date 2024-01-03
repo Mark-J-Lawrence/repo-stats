@@ -1,0 +1,5 @@
+url_path,views_total,views_unique
+/cicsdev/cics-async-api-credit-card-application-example,3,3
+/cicsdev/cics-async-api-credit-card-application-example/tree/main/etc/CICS_bundles,3,1
+/cicsdev/cics-async-api-credit-card-application-example/tree/main/etc/CICS_bundles/cics-async-creditcardapplication-pipeline,3,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/etc/CICS_bundles/cics-async-creditcardapplication-pipeline/SOAPPROV.pipeline,2,1
