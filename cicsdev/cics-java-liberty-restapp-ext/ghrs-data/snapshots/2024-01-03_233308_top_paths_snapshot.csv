@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restapp-ext,40,6
+/cicsdev/cics-java-liberty-restapp-ext/tree/main/src,14,2
+/cicsdev/cics-java-liberty-restapp-ext/blob/main/src/Java/com/ibm/cicsdev/restappext/LinkToLiberty.java,13,2
+/cicsdev/cics-java-liberty-restapp-ext/tree/main/src/Cobol,12,2
+/cicsdev/cics-java-liberty-restapp-ext/blob/main/src/Cobol/LINK2SUP.cbl,10,3
+/cicsdev/cics-java-liberty-restapp-ext/blob/main/etc/DFHCSD.txt,9,2
+/cicsdev/cics-java-liberty-restapp-ext/blob/main/src/Cobol/STOKPART.cpy,6,1
+/cicsdev/cics-java-liberty-restapp-ext/blob/main/RunningLinkToLiberty.md,5,2
+/cicsdev/cics-java-liberty-restapp-ext/blob/main/GettingStarted.md,5,1
+/cicsdev/cics-java-liberty-restapp-ext/tree/main/src/Java/com/ibm/cicsdev/restappext,5,1
