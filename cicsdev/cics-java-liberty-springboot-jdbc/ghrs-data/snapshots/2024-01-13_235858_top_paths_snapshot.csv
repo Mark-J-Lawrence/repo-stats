@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jdbc/tree/main/src/main/java/com/ibm/cicsdev/springboot/jdbc,27,5
+/cicsdev/cics-java-liberty-springboot-jdbc/tree/main/src/main,23,5
+/cicsdev/cics-java-liberty-springboot-jdbc/blob/main/src/main/java/com/ibm/cicsdev/springboot/jdbc/EmployeeService.java,16,5
+/cicsdev/cics-java-liberty-springboot-jdbc/blob/main/src/main/java/com/ibm/cicsdev/springboot/jdbc/ServletInitializer.java,12,5
+/cicsdev/cics-java-liberty-springboot-jdbc/tree/main/src/main/resources,10,3
+/cicsdev/cics-java-liberty-springboot-jdbc,8,8
+/cicsdev/cics-java-liberty-springboot-jdbc/blob/main/src/main/java/com/ibm/cicsdev/springboot/jdbc/Application.java,8,4
+/cicsdev/cics-java-liberty-springboot-jdbc/blob/main/src/main/resources/application.properties,8,2
+/cicsdev/cics-java-liberty-springboot-jdbc/blob/main/pom.xml,6,3
+/cicsdev/cics-java-liberty-springboot-jdbc/blob/main/src/main/java/com/ibm/cicsdev/springboot/jdbc/Employee.java,6,3
