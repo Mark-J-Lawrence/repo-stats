@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restapp,8,5
+/cicsdev/cics-java-liberty-restapp/tree/main/src,8,2
+/cicsdev/cics-java-liberty-restapp/blob/main/src/Java/com/ibm/cicsdev/restapp/CICSApplication.java,8,1
+/cicsdev/cics-java-liberty-restapp/blob/main/pom.xml,3,1
+/cicsdev/cics-java-liberty-restapp/blob/main/src/Cobol/EDUCHAN.cbl,3,1
+/cicsdev/cics-java-liberty-restapp/tree/main/src/Cobol,3,1
+/cicsdev/cics-java-liberty-restapp/tree/main/src/Java/com/ibm/cicsdev/restapp,3,1
+/cicsdev/cics-java-liberty-restapp/blob/main/src/Java/com/ibm/cicsdev/restapp/InfoResource.java,2,1
+/cicsdev/cics-java-liberty-restapp/tree/main,1,1
