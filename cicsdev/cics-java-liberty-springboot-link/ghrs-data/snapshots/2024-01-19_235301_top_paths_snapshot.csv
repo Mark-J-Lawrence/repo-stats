@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-link/tree/main/src/main,12,3
+/cicsdev/cics-java-liberty-springboot-link/tree/main/src/main/resources,12,2
+/cicsdev/cics-java-liberty-springboot-link/tree/main/src/main/java/com/ibm/cicsdev/springboot/link/app/ui,10,3
+/cicsdev/cics-java-liberty-springboot-link/tree/main,10,2
+/cicsdev/cics-java-liberty-springboot-link,8,6
+/cicsdev/cics-java-liberty-springboot-link/blob/main/pom.xml,6,1
+/cicsdev/cics-java-liberty-springboot-link/blob/main/README.md,4,2
+/cicsdev/cics-java-liberty-springboot-link/blob/main/src/main/java/com/ibm/cicsdev/springboot/link/app/ui/cics/CICSCallable.java,4,2
+/cicsdev/cics-java-liberty-springboot-link/blob/main/src/main/java/com/ibm/cicsdev/springboot/link/app/ui/Application.java,4,1
+/cicsdev/cics-java-liberty-springboot-link/blob/main/src/main/resources/messages.properties,4,1
