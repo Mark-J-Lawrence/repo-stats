@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-genapp/tree/main/base,122,25
+/cicsdev/cics-genapp,98,47
+/cicsdev/cics-genapp/tree/main/base/src,63,12
+/cicsdev/cics-genapp/tree/main/base/cntl,42,9
+/cicsdev/cics-genapp/blob/main/base/cntl/cpsmde2.jcl,30,3
+/cicsdev/cics-genapp/blob/main/base/src/lgacdb01.cbl,28,6
+/cicsdev/cics-genapp/blob/main/base/cntl/cobol.jcl,26,5
+/cicsdev/cics-genapp/blob/main/base/cntl/cdef123.jcl,24,2
+/cicsdev/cics-genapp/blob/main/base/cntl/README.md,20,6
+/cicsdev/cics-genapp/blob/main/Changes.md,20,5
