@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-event-consumer/blob/main/docs/cics-http.md,26,7
+/cicsdev/cics-event-consumer/blob/main/examples/CA1YCOB4.cbl,2,1
+/cicsdev/cics-event-consumer/blob/main/examples/ca1y.sh,2,1
+/cicsdev/cics-event-consumer/blob/main/examples/schemas/cbe_example.xml,2,1
+/cicsdev/cics-event-consumer/blob/main/examples/schemas/cics_cbe_static.xsd,2,1
+/cicsdev/cics-event-consumer/blob/main/projects/com.ibm.cics.ca1y.web.cicsbundle/META-INF/cics.xml,2,1
+/cicsdev/cics-event-consumer/tree/main/docs/Tokens,2,1
+/cicsdev/cics-event-consumer/tree/main/examples/schemas,2,1
+/cicsdev/cics-event-consumer/tree/main/projects/com.ibm.cics.ca1y.web/src/com/ibm/cics/ca1y,2,1
+/cicsdev/cics-event-consumer/tree/main/projects/com.ibm.cics.ca1y.web/src/com/ibm/cics/ca1y/epadapterinterface,2,1
