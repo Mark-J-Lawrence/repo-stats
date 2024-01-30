@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-ejb/tree/main/projects/com.ibm.cicsdev.ejb,20,4
+/cicsdev/cics-java-liberty-ejb/tree/main/projects/com.ibm.cicsdev.ejb/ejbModule/com/ibm/cicsdev/ejb,20,4
+/cicsdev/cics-java-liberty-ejb/tree/main/projects/com.ibm.cicsdev.ejb/ejbModule,16,4
+/cicsdev/cics-java-liberty-ejb/tree/main/projects,16,3
+/cicsdev/cics-java-liberty-ejb/tree/main/projects/com.ibm.cicsdev.ejb.shop.web/WebContent,12,1
+/cicsdev/cics-java-liberty-ejb/blob/main/projects/com.ibm.cicsdev.ejb/ejbModule/com/ibm/cicsdev/ejb/CatalogueBean.java,10,3
+/cicsdev/cics-java-liberty-ejb/tree/main/projects/com.ibm.cicsdev.ejb.app,10,2
+/cicsdev/cics-java-liberty-ejb/blob/main/projects/com.ibm.cicsdev.ejb/ejbModule/com/ibm/cicsdev/ejb/CartBean.java,8,2
+/cicsdev/cics-java-liberty-ejb/blob/main/projects/com.ibm.cicsdev.ejb.stock.web/src/com/ibm/cicsdev/ejb/stock/web/StockApplication.java,8,2
+/cicsdev/cics-java-liberty-ejb/tree/main/projects/com.ibm.cicsdev.ejb.shop.web/src/com/ibm/cicsdev/ejb/shop/web,8,2
