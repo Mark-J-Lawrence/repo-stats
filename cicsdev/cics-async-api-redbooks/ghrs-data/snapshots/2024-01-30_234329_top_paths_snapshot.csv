@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-async-api-redbooks/tree/main/web-banking,29,4
+/cicsdev/cics-async-api-redbooks/tree/main/web-banking/src,16,3
+/cicsdev/cics-async-api-redbooks/tree/main/web-banking/etc,13,1
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/src/ACCTCURR.cbl,9,3
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/src/GETLOAN.cbl,6,2
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/src/WEBHOME.cbl,6,2
+/cicsdev/cics-async-api-redbooks,5,4
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/etc/AsyncRedbooksWebBankingBundle/ACCTPTNR.program,5,1
+/cicsdev/cics-async-api-redbooks/tree/main/web-banking/etc/AccountServices,5,1
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/etc/zosptfile,4,1
