@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-bundle-scripts/tree/main/validatecicsbundle,11,2
+/cicsdev/cics-bundle-scripts/tree/main/validatecicsbundle/examples,10,1
+/cicsdev/cics-bundle-scripts/tree/main/validatecicsbundle/examples/catalog.example.service,10,1
+/cicsdev/cics-bundle-scripts,2,2
+/cicsdev/cics-bundle-scripts/blob/main/validatecicsbundle/examples/catalog.example.service/META-INF/cics.xml,2,1
+/cicsdev/cics-bundle-scripts/blob/main/validatecicsbundle/validatecicsbundle,2,1
+/cicsdev/cics-bundle-scripts/tree/main,2,1
+/cicsdev/cics-bundle-scripts/tree/main/addtocicsbundle,2,1
+/cicsdev/cics-bundle-scripts/tree/main/validatecicsbundle/examples/catalog.example.service/META-INF,2,1
+/cicsdev/cics-bundle-scripts/tree/main/validatecicsbundle/examples/catalog.example.service/.settings,2,1
