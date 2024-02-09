@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-asynchronous/tree/main/src/main,5,2
+/cicsdev/cics-java-liberty-springboot-asynchronous/blob/main/src/main/webapp/WEB-INF/web.xml,5,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/tree/main/src/main/java/com/ibm/cicsdev/springboot/asynchronous,4,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/edit/main/src/main/webapp/WEB-INF/web.xml,3,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/tree/main/src/main/webapp/WEB-INF,3,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/blob/main/gradle/wrapper/gradle-wrapper.properties,2,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/blob/main/src/main/java/com/ibm/cicsdev/springboot/asynchronous/AsyncService.java,2,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/blob/main/src/main/java/com/ibm/cicsdev/springboot/asynchronous/RESTControllerAsync.java,2,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/tree/main/gradle/wrapper,2,1
+/cicsdev/cics-java-liberty-springboot-asynchronous,1,1
