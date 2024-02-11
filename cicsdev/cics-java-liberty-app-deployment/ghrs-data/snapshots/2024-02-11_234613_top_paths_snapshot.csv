@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-app-deployment/tree/main/projects,13,2
+/cicsdev/cics-java-liberty-app-deployment,8,8
+/cicsdev/cics-java-liberty-app-deployment/tree/main/etc,8,2
+/cicsdev/cics-java-liberty-app-deployment/tree/main/src/COBOL,8,2
+/cicsdev/cics-java-liberty-app-deployment/blob/main/etc/DFHCSD.txt,7,2
+/cicsdev/cics-java-liberty-app-deployment/blob/main/src/COBOL/WLPCTRLW.cbl,7,2
+/cicsdev/cics-java-liberty-app-deployment/tree/main/projects/com.ibm.cicsdev.jmx.httpendpoint.controller,6,1
+/cicsdev/cics-java-liberty-app-deployment/tree/main,4,1
+/cicsdev/cics-java-liberty-app-deployment/tree/main/projects/com.ibm.cicsdev.jmx.httpendpoint.controller/WebContent,4,1
+/cicsdev/cics-java-liberty-app-deployment/tree/main/projects/com.ibm.cicsdev.jmx.wlpolicy.cicsbundle,4,1
