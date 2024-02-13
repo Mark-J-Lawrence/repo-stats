@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jcics/tree/main/src/main,29,5
+/cicsdev/cics-java-liberty-springboot-jcics,27,13
+/cicsdev/cics-java-liberty-springboot-jcics/tree/main/src/main/java/com/ibm/cicsdev/springboot/jcics,22,4
+/cicsdev/cics-java-liberty-springboot-jcics/tree/main/src/main/webapp/WEB-INF,19,3
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/webapp/WEB-INF/web.xml,15,3
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/pom.xml,10,4
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/.github/workflows/java.yml,10,1
+/cicsdev/cics-java-liberty-springboot-jcics/actions,9,2
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/Application.java,8,4
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/build.gradle,8,3
