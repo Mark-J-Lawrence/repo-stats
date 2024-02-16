@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-link,41,18
+/cicsdev/cics-java-liberty-springboot-link/tree/main/src/main,33,5
+/cicsdev/cics-java-liberty-springboot-link/pull/9,16,9
+/cicsdev/cics-java-liberty-springboot-link/tree/main/src/main/java/com/ibm/cicsdev/springboot/link/app/ui,14,4
+/cicsdev/cics-java-liberty-springboot-link/blob/main/pom.xml,12,4
+/cicsdev/cics-java-liberty-springboot-link/blob/main/src/main/java/com/ibm/cicsdev/springboot/link/app/ui/cics/CICSCallable.java,10,4
+/cicsdev/cics-java-liberty-springboot-link/tree/main/src/main/java/com/ibm/cicsdev/springboot/link/app/ui/cics,10,3
+/cicsdev/cics-java-liberty-springboot-link/tree/main/src/main/webapp/WEB-INF,10,3
+/cicsdev/cics-java-liberty-springboot-link/blob/main/build.gradle,9,3
+/cicsdev/cics-java-liberty-springboot-link/tree/main/src/main/resources,9,3
