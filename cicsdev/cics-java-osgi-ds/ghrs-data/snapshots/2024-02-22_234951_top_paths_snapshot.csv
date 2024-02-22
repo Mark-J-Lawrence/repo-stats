@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-osgi-ds/tree/main/projects,12,2
+/cicsdev/cics-java-osgi-ds/tree/main/projects/com.ibm.cicsdev.osgi.ds.cicsapp_1.0.0/src/com/ibm/cicsdev/osgi/ds/cicsapp,10,2
+/cicsdev/cics-java-osgi-ds/tree/main/projects/com.ibm.cicsdev.osgi.ds.cicsapp_1.0.0,8,2
+/cicsdev/cics-java-osgi-ds,6,6
+/cicsdev/cics-java-osgi-ds/blob/main/projects/com.ibm.cicsdev.osgi.ds.cicsapp_1.0.0/src/com/ibm/cicsdev/osgi/ds/cicsapp/CICSApp.java,6,2
+/cicsdev/cics-java-osgi-ds/blob/main/projects/com.ibm.cicsdev.osgi.ds.storage_1.0.0/src/com/ibm/cicsdev/osgi/ds/storage/StorageException.java,6,2
+/cicsdev/cics-java-osgi-ds/tree/main/projects/com.ibm.cicsdev.osgi.ds.storage_1.0.0/src/com/ibm/cicsdev/osgi/ds/storage,6,2
+/cicsdev/cics-java-osgi-ds/tree/main/projects/com.ibm.cicsdev.osgi.ds.storage_1.0.0,5,2
+/cicsdev/cics-java-osgi-ds/blob/main/projects/com.ibm.cicsdev.osgi.ds.cicsapp_1.0.0/OSGI-INF/com.ibm.cicsdev.osgi.ds.cicsapp.CICSApp.xml,4,2
+/cicsdev/cics-java-osgi-ds/blob/main/projects/com.ibm.cicsdev.osgi.ds.storage_1.0.0/src/com/ibm/cicsdev/osgi/ds/storage/StorageService.java,4,2
