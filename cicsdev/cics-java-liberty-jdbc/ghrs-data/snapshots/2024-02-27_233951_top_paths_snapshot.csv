@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-jdbc,7,4
+/cicsdev/cics-java-liberty-jdbc/tree/main/projects,6,2
+/cicsdev/cics-java-liberty-jdbc/tree/main/etc,3,1
+/cicsdev/cics-java-liberty-jdbc/tree/main/etc/config,3,1
+/cicsdev/cics-java-liberty-jdbc/blob/main/etc/config/type-2-server.xml,2,1
+/cicsdev/cics-java-liberty-jdbc/blob/main/README.md,2,1
+/cicsdev/cics-java-liberty-jdbc/fork,2,1
+/cicsdev/cics-java-liberty-jdbc/tree/main/projects/com.ibm.cicsdev.jdbc.web,2,1
+/cicsdev/cics-java-liberty-jdbc/tree/main/projects/com.ibm.cicsdev.jdbc.web.cicsbundle,2,1
+/cicsdev/cics-java-liberty-jdbc/compare/cucsts/v5.5...SoftlySplinter:cics-java-liberty-jdbc:cicsts/v5.5,1,1
