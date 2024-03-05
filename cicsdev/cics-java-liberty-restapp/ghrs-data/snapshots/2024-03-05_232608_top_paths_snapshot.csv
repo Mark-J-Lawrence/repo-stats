@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-restapp/tree/main/src/Java/com/ibm/cicsdev/restapp,15,2
+/cicsdev/cics-java-liberty-restapp/tree/main/src/Java/com/ibm/cicsdev/restapp/bean,11,2
+/cicsdev/cics-java-liberty-restapp/blob/main/src/Java/com/ibm/cicsdev/restapp/InfoResource.java,9,2
+/cicsdev/cics-java-liberty-restapp/blob/main/src/Java/com/ibm/cicsdev/restapp/ReverseResource.java,9,2
+/cicsdev/cics-java-liberty-restapp/tree/main/src,9,2
+/cicsdev/cics-java-liberty-restapp,6,5
+/cicsdev/cics-java-liberty-restapp/blob/main/src/Java/com/ibm/cicsdev/restapp/bean/ReverseResult.java,6,2
+/cicsdev/cics-java-liberty-restapp/blob/main/src/Cobol/EDUCHAN.cbl,6,1
+/cicsdev/cics-java-liberty-restapp/blob/main/src/Java/com/ibm/cicsdev/restapp/CICSApplication.java,6,1
+/cicsdev/cics-java-liberty-restapp/blob/main/etc/DFHCSD.txt,2,1
