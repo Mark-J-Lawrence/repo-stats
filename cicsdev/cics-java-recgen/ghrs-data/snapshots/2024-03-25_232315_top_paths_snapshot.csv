@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-recgen,20,14
+/cicsdev/cics-java-recgen/tree/main/src/Cobol,20,8
+/cicsdev/cics-java-recgen/blob/main/projects/com.ibm.cicsdev.jzostest/src/com/ibm/cicsdev/jzostest/JZOSprog.java,19,5
+/cicsdev/cics-java-recgen/blob/main/src/Cobol/EDUPGM.cbl,16,7
+/cicsdev/cics-java-recgen/blob/main/src/Cobol/EDUCPY.cbl,12,6
+/cicsdev/cics-java-recgen/tree/main/projects,8,4
+/cicsdev/cics-java-recgen/blob/main/README.md,8,3
+/cicsdev/cics-java-recgen/blob/main/projects/com.ibm.cicsdev.jzostest/lib/EDUPGM.jar,6,2
+/cicsdev/cics-java-recgen/blob/main/LICENSE,4,2
+/cicsdev/cics-java-recgen/blob/main/projects/com.ibm.cicsdev.jzostest/build.properties,4,2
