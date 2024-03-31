@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-bundle-scripts,11,2
+/cicsdev/cics-bundle-scripts/tree/main/validatecicsbundle/examples,5,1
+/cicsdev/cics-bundle-scripts/tree/main/validatecicsbundle/examples/catalog.example.service,4,1
+/cicsdev/cics-bundle-scripts/tree/main/addtocicsbundle,3,1
+/cicsdev/cics-bundle-scripts/blob/main/addtocicsbundle/addtocicsbundle,2,1
+/cicsdev/cics-bundle-scripts/blob/main/validatecicsbundle/examples/catalog.example.service/EXINQCSW.urimap,2,1
+/cicsdev/cics-bundle-scripts/blob/main/validatecicsbundle/examples/catalog.example.service/variables.properties,2,1
+/cicsdev/cics-bundle-scripts/blob/main/validatecicsbundle/examples/rules.txt,2,1
+/cicsdev/cics-bundle-scripts/blob/main/validatecicsbundle/examples/test_rule,2,1
+/cicsdev/cics-bundle-scripts/blob/main/validatecicsbundle/examples/test_rules,2,1
