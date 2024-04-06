@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-banking-sample-application-cbsa,54,29
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src,35,8
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base,34,5
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/doc/CBSA_base_cobol_installation_instructions.md,32,9
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/aarfiles/creacc.aar,32,2
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/etc/usage/carbonReactUI,21,2
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/db2jcl/BTCHSQL.jcl,20,4
+/cicsdev/cics-banking-sample-application-cbsa/tree/main,19,7
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/etc,19,5
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/db2jcl/CREDB00.jcl,18,4
