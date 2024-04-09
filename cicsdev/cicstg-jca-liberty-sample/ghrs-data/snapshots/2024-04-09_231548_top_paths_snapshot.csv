@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cicstg-jca-liberty-sample,27,7
+/cicsdev/cicstg-jca-liberty-sample/tree/main/WEB-INF,25,4
+/cicsdev/cicstg-jca-liberty-sample/tree/main/com/ibm/ctg/samples/liberty,23,3
+/cicsdev/cicstg-jca-liberty-sample/blob/main/server.xml,22,4
+/cicsdev/cicstg-jca-liberty-sample/blob/main/WEB-INF/web.xml,18,5
+/cicsdev/cicstg-jca-liberty-sample/blob/main/com/ibm/ctg/samples/liberty/JCAServlet.java,18,4
+/cicsdev/cicstg-jca-liberty-sample/blob/main/libertyJCA.war,10,3
+/cicsdev/cicstg-jca-liberty-sample/tree/main,10,3
+/cicsdev/cicstg-jca-liberty-sample/blob/main/readme.md,6,4
+/cicsdev/cicstg-jca-liberty-sample/branches,5,1
