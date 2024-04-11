@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/aarfiles/creacc.aar,48,2
+/cicsdev/cics-banking-sample-application-cbsa,45,23
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src,32,7
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/doc/CBSA_base_cobol_installation_instructions.md,30,8
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/etc/usage/carbonReactUI,23,2
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/src/base/cobol_src/BNK1UAC.cbl,21,2
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/src/base/cobol_copy/ACCOUNT.cpy,20,4
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base,20,4
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/src/base/cobol_copy/ABNDINFO.cpy,20,2
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base/cobol_copy,20,2
