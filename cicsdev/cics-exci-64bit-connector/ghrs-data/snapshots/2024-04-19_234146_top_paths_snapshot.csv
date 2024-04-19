@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-exci-64bit-connector/tree/main/src,8,1
+/cicsdev/cics-exci-64bit-connector/blob/main/src/exci.c,6,1
+/cicsdev/cics-exci-64bit-connector/blob/main/testProgram.c,6,1
+/cicsdev/cics-exci-64bit-connector,5,2
+/cicsdev/cics-exci-64bit-connector/blob/main/src/glue.s,5,1
+/cicsdev/cics-exci-64bit-connector/blob/main/README.md,4,2
+/cicsdev/cics-exci-64bit-connector/blob/main/Cobol/EDUCHAN.cbl,4,1
+/cicsdev/cics-exci-64bit-connector/blob/main/Makefile,4,1
+/cicsdev/cics-exci-64bit-connector/blob/main/src/entry.c,4,1
+/cicsdev/cics-exci-64bit-connector/tree/main/Cobol,3,1
