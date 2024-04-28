@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jms/blob/main/src/main/java/com/ibm/cicsdev/springboot/jms/JMSMessageReceiver.java,66,2
+/cicsdev/cics-java-liberty-springboot-jms/blob/main/src/main/java/com/ibm/cicsdev/springboot/jms/Application.java,50,3
+/cicsdev/cics-java-liberty-springboot-jms/blob/main/src/main/java/com/ibm/cicsdev/springboot/jms/JMSMessageSendController.java,50,2
+/cicsdev/cics-java-liberty-springboot-jms/blob/main/src/main/java/com/ibm/cicsdev/springboot/jms/ServletInitializer.java,28,2
+/cicsdev/cics-java-liberty-springboot-jms/tree/main/src/main/java/com/ibm/cicsdev/springboot/jms,24,3
+/cicsdev/cics-java-liberty-springboot-jms/tree/main/src/main,14,3
+/cicsdev/cics-java-liberty-springboot-jms/blob/main/src/main/webapp/WEB-INF/web.xml,14,1
+/cicsdev/cics-java-liberty-springboot-jms/blob/main/pom.xml,12,2
+/cicsdev/cics-java-liberty-springboot-jms,8,6
+/cicsdev/cics-java-liberty-springboot-jms/blob/main/README.md,7,2
