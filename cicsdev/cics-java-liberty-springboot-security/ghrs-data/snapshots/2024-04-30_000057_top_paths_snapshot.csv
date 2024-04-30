@@ -1,0 +1,5 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-security,2,1
+/cicsdev/cics-java-liberty-springboot-security/blob/main/pom.xml,2,1
+/cicsdev/cics-java-liberty-springboot-security/blob/main/src/main/webapp/WEB-INF/web.xml,2,1
+/cicsdev/cics-java-liberty-springboot-security/blob/main/.tekton/helm/templates/built-artifact-server-deployment.yaml,2,1
