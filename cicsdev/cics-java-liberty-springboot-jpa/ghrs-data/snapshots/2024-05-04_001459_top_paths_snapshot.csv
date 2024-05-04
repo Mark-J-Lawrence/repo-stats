@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jpa/tree/main/src/main/java/com/ibm/cicsdev/springboot/jpa,24,2
+/cicsdev/cics-java-liberty-springboot-jpa/blob/main/src/main/java/com/ibm/cicsdev/springboot/jpa/Config.java,16,3
+/cicsdev/cics-java-liberty-springboot-jpa/tree/main/src/main,11,2
+/cicsdev/cics-java-liberty-springboot-jpa/blob/main/src/main/java/com/ibm/cicsdev/springboot/jpa/EmployeeService.java,6,2
+/cicsdev/cics-java-liberty-springboot-jpa/blob/main/src/main/java/com/ibm/cicsdev/springboot/jpa/EmployeeRestController.java,5,2
+/cicsdev/cics-java-liberty-springboot-jpa/tree/main/src/main/resources,5,1
+/cicsdev/cics-java-liberty-springboot-jpa/tree/main/src/main/webapp/WEB-INF,5,1
+/cicsdev/cics-java-liberty-springboot-jpa/blob/main/src/main/java/com/ibm/cicsdev/springboot/jpa/Emp.java,4,2
+/cicsdev/cics-java-liberty-springboot-jpa/blob/main/src/main/java/com/ibm/cicsdev/springboot/jpa/EmployeeRepository.java,4,1
+/cicsdev/cics-java-liberty-springboot-jpa/tree/main/src/main/java/com/ibm/cicsdev/springboot,3,1
