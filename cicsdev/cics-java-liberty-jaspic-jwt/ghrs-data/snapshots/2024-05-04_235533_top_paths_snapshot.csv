@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-jaspic-jwt/tree/main/projects,7,2
+/cicsdev/cics-java-liberty-jaspic-jwt/tree/main/projects/cics-java-liberty-jaspic-jwt/src/com/ibm/cicsdev/jaspic/jwt,7,1
+/cicsdev/cics-java-liberty-jaspic-jwt/tree/main/projects/cics-java-liberty-jaspic-jwt,6,1
+/cicsdev/cics-java-liberty-jaspic-jwt,5,2
+/cicsdev/cics-java-liberty-jaspic-jwt/tree/main/projects/cics-java-liberty-jaspic-jwt-feature,5,2
+/cicsdev/cics-java-liberty-jaspic-jwt/blob/main/projects/cics-java-liberty-jaspic-jwt/src/com/ibm/cicsdev/jaspic/jwt/JWTServerAuthModule.java,4,1
+/cicsdev/cics-java-liberty-jaspic-jwt/blob/main/projects/cics-java-liberty-jaspic-jwt-feature/.project,2,1
+/cicsdev/cics-java-liberty-jaspic-jwt/blob/main/projects/cics-java-liberty-jaspic-jwt/src/com/ibm/cicsdev/jaspic/jwt/JWTAuthConfigProvider.java,2,1
+/cicsdev/cics-java-liberty-jaspic-jwt/blob/main/projects/cics-java-liberty-jaspic-jwt/src/com/ibm/cicsdev/jaspic/jwt/JWTJaspiProviderService.java,2,1
+/cicsdev/cics-java-liberty-jaspic-jwt/blob/main/projects/cics-java-liberty-jaspic-jwt/src/com/ibm/cicsdev/jaspic/jwt/JWTServerAuthConfig.java,2,1
