@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-security/tree/main/src/main,12,3
+/cicsdev/cics-java-liberty-springboot-security/tree/main/src/main/java/com/ibm/cicsdev/springboot/security,10,2
+/cicsdev/cics-java-liberty-springboot-security/blob/main/src/main/java/com/ibm/cicsdev/springboot/security/Application.java,8,3
+/cicsdev/cics-java-liberty-springboot-security/blob/main/src/main/java/com/ibm/cicsdev/springboot/security/WebSecureController.java,6,3
+/cicsdev/cics-java-liberty-springboot-security/blob/main/src/main/webapp/WEB-INF/web.xml,6,2
+/cicsdev/cics-java-liberty-springboot-security/tree/main/src/main/resources,6,1
+/cicsdev/cics-java-liberty-springboot-security,4,4
+/cicsdev/cics-java-liberty-springboot-security/tree/main/src/main/webapp/WEB-INF,4,2
+/cicsdev/cics-java-liberty-springboot-security/blob/main/.project,3,2
+/cicsdev/cics-java-liberty-springboot-security/blob/main/gradle/wrapper/gradle-wrapper.properties,2,1
