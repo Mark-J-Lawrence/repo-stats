@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-asynchronous,8,4
+/cicsdev/cics-java-liberty-springboot-asynchronous/commits,6,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/tree/main/src/main,6,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/tree/main/src/main/java/com/ibm/cicsdev/springboot/asynchronous,6,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/blob/main/src/main/java/com/ibm/cicsdev/springboot/asynchronous/RESTControllerAsync.java,3,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/blob/main/pom.xml,2,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/blob/main/README.md,2,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/blob/main/src/main/java/com/ibm/cicsdev/springboot/asynchronous/Application.java,2,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/tree/main,2,1
+/cicsdev/cics-java-liberty-springboot-asynchronous/tree/main/gradle/wrapper,2,1
