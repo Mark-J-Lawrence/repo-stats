@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-async-api-redbooks/tree/main/web-banking/src,11,3
+/cicsdev/cics-async-api-redbooks/tree/main/web-banking,10,3
+/cicsdev/cics-async-api-redbooks,9,7
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/src/ACCTCURR.cbl,8,3
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/src/GETLOAN.cbl,6,2
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/README.md,6,1
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/src/WEBHOME.cbl,4,2
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/etc/AccountServices/src/banking/BankAccounts.java,4,1
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/etc/AccountServices/WebContent/CustomerAccounts.jsp,4,1
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/etc/AccountServices/WebContent/index.jsp,4,1
