@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-async-api-credit-card-application-example,5,5
+/cicsdev/cics-async-api-credit-card-application-example/blob/main/src/ASYNCPNT.wsdl,4,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/cada9902bfd8530753bd6b38601dfe270228927d/src/ASYNCPNT.cbl,3,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/cada9902bfd8530753bd6b38601dfe270228927d/src/CRDTCHK.cbl,3,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/cada9902bfd8530753bd6b38601dfe270228927d/src/CSSTATS2.cbl,3,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/cada9902bfd8530753bd6b38601dfe270228927d/src/CSSTATUS.cbl,3,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/cada9902bfd8530753bd6b38601dfe270228927d/src/GETADDR.cbl,3,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/cada9902bfd8530753bd6b38601dfe270228927d/src/GETNAME.cbl,3,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/cada9902bfd8530753bd6b38601dfe270228927d/src/GETPOL.cbl,3,1
+/cicsdev/cics-async-api-credit-card-application-example/blob/cada9902bfd8530753bd6b38601dfe270228927d/src/GETSPND.cbl,3,1
