@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-link,10,7
+/cicsdev/cics-java-liberty-link/tree/main/cics-java-liberty-link-bundle,4,2
+/cicsdev/cics-java-liberty-link/blob/main/cics-java-liberty-link-bundle/.settings/org.eclipse.m2e.core.prefs,4,1
+/cicsdev/cics-java-liberty-link/blob/main/.github/workflows/java.yaml,3,1
+/cicsdev/cics-java-liberty-link/blob/main/cics-java-liberty-link-app/pom.xml,2,1
+/cicsdev/cics-java-liberty-link/blob/main/cics-java-liberty-link-app/src/main/java/com/ibm/cics/server/examples/wlp/link/HelloLiberty.java,2,1
+/cicsdev/cics-java-liberty-link/blob/main/cics-java-liberty-link-app/src/main/webapp/WEB-INF/ibm-web-ext.xml,2,1
+/cicsdev/cics-java-liberty-link/blob/main/cics-java-liberty-link-app/src/main/webapp/WEB-INF/web.xml,2,1
+/cicsdev/cics-java-liberty-link/blob/main/cics-java-liberty-link-bundle/pom.xml,2,1
+/cicsdev/cics-java-liberty-link/blob/main/cics-java-liberty-link-bundle/.settings/org.eclipse.core.resources.prefs,2,1
