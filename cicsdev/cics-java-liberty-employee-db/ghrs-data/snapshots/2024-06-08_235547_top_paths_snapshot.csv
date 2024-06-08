@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-employee-db/blob/main/etc/Liberty/type-2-server.xml,10,4
+/cicsdev/cics-java-liberty-employee-db/blob/main/etc/Liberty/employee.xml,6,4
+/cicsdev/cics-java-liberty-employee-db/blob/main/etc/Liberty/type-4-server.xml,6,3
+/cicsdev/cics-java-liberty-employee-db,3,3
+/cicsdev/cics-java-liberty-employee-db/tree/main/projects,2,1
+/cicsdev/cics-java-liberty-employee-db/tree/main/projects/employee.jdbc.cicsbundle,2,1
+/cicsdev/cics-java-liberty-employee-db/tree/main/projects/employee.jdbc.web/src/com/ibm/cicsdev/employee/jdbc/beans,2,1
