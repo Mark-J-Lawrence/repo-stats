@@ -1,5 +1,5 @@
 % Statistics for cicsdev/blog-cics-java-osgi-classloading
-% Generated for [cicsdev/blog-cics-java-osgi-classloading](https://github.com/cicsdev/blog-cics-java-osgi-classloading) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-06-12 00:09 UTC.
+% Generated for [cicsdev/blog-cics-java-osgi-classloading](https://github.com/cicsdev/blog-cics-java-osgi-classloading) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-06-13 00:08 UTC.
 
 
 ## Views
