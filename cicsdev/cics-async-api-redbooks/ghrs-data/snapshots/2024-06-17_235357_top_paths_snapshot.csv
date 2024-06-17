@@ -1,0 +1,7 @@
+url_path,views_total,views_unique
+/cicsdev/cics-async-api-redbooks,4,4
+/cicsdev/cics-async-api-redbooks/blob/9a622132fdfb1485dd3d44a71e0282497548a0d1/web-banking/src/ACCTCURR.cbl,2,1
+/cicsdev/cics-async-api-redbooks/blob/9a622132fdfb1485dd3d44a71e0282497548a0d1/web-banking/src/ACCTPTNR.cbl,2,1
+/cicsdev/cics-async-api-redbooks/blob/9a622132fdfb1485dd3d44a71e0282497548a0d1/web-banking/src/GETLOAN.cbl,2,1
+/cicsdev/cics-async-api-redbooks/blob/9a622132fdfb1485dd3d44a71e0282497548a0d1/web-banking/src/GETNAME.cbl,2,1
+/cicsdev/cics-async-api-redbooks/blob/9a622132fdfb1485dd3d44a71e0282497548a0d1/web-banking/src/WEBHOME.cbl,2,1
