@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jcics,12,9
+/cicsdev/cics-java-liberty-springboot-jcics/tree/main/src/main/java/com/ibm/cicsdev/springboot/jcics,7,2
+/cicsdev/cics-java-liberty-springboot-jcics/tree/main/src/main,5,2
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/pom.xml,4,2
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/.github/workflows/java.yml,2,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/DeleteTSQController.java,2,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/RootController.java,2,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/java/com/ibm/cicsdev/springboot/jcics/ServletInitializer.java,2,1
+/cicsdev/cics-java-liberty-springboot-jcics/blob/main/src/main/webapp/WEB-INF/web.xml,2,1
+/CICSDev/cics-java-liberty-springboot-jcics/blob/main/src/main/webapp/WEB-INF/web.xml,2,1
