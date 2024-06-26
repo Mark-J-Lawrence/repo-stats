@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-java-liberty-springboot-jdbc-multi/blob/main/build.gradle,6,2
+/cicsdev/cics-java-liberty-springboot-jdbc-multi/blob/main/src/main/webapp/WEB-INF/web.xml,6,1
+/cicsdev/cics-java-liberty-springboot-jdbc-multi,4,4
+/cicsdev/cics-java-liberty-springboot-jdbc-multi/blob/main/src/main/java/com/ibm/cicsdev/springboot/jdbc/multi/Application.java,4,1
+/cicsdev/cics-java-liberty-springboot-jdbc-multi/blob/main/src/main/java/com/ibm/cicsdev/springboot/jdbc/multi/ServletInitializer.java,4,1
+/cicsdev/cics-java-liberty-springboot-jdbc-multi/tree/main/src/main,4,1
+/cicsdev/cics-java-liberty-springboot-jdbc-multi/tree/main/src/main/java/com/ibm/cicsdev/springboot/jdbc/multi,3,1
+/cicsdev/cics-java-liberty-springboot-jdbc-multi/blob/main/src/main/java/com/ibm/cicsdev/springboot/jdbc/multi/Employee.java,2,1
+/cicsdev/cics-java-liberty-springboot-jdbc-multi/blob/main/src/main/java/com/ibm/cicsdev/springboot/jdbc/multi/EmployeeRestController.java,2,1
+/cicsdev/cics-java-liberty-springboot-jdbc-multi/tree/main/src/main/webapp,2,1
