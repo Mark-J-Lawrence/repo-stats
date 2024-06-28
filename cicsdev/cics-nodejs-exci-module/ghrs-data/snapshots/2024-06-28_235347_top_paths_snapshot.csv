@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/cicsdev/cics-nodejs-exci-module/tree/main/libraries,9,3
+/cicsdev/cics-nodejs-exci-module,8,6
+/cicsdev/cics-nodejs-exci-module/blob/main/LICENSE,6,1
+/cicsdev/cics-nodejs-exci-module/blob/main/cics-exci-process.js,4,2
+/cicsdev/cics-nodejs-exci-module/blob/main/cics-exci.cc,4,1
+/cicsdev/cics-nodejs-exci-module/blob/main/cics-exci.js,4,1
+/cicsdev/cics-nodejs-exci-module/blob/main/binding.gyp,2,1
+/cicsdev/cics-nodejs-exci-module/blob/main/libraries/libCicsExci64Connector.a,2,1
