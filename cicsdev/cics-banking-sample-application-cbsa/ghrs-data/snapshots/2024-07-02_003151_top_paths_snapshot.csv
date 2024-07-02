@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src,40,10
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base,39,5
+/cicsdev/cics-banking-sample-application-cbsa,33,28
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/aarfiles/creacc.aar,28,1
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/doc/CBSA_Architecture_guide.md,22,7
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base/cobol_src,21,4
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/doc/CBSA_base_cobol_installation_instructions.md,18,7
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/Z-OS-Connect-Payment-Interface/src/main/java/com/ibm/cics/cip/bank/springboot/paymentinterface,12,2
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/buildjcl/ABNDPROC.jcl,12,1
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/src/base/cobol_src/ABNDPROC.cbl,12,1
