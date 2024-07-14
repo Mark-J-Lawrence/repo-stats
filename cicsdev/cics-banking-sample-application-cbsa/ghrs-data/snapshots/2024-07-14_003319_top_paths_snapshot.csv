@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base,49,9
+/cicsdev/cics-banking-sample-application-cbsa,48,27
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src,42,10
+/cicsdev/cics-banking-sample-application-cbsa/blob/ee7c110688c39cd2a1baa335af97c0294a805fda/src/base/cobol_src/CRECUST.cbl,27,4
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/base/cobol_src,23,7
+/cicsdev/cics-banking-sample-application-cbsa/blob/main/etc/install/base/aarfiles/creacc.aar,20,1
+/cicsdev/cics-banking-sample-application-cbsa/blob/ee7c110688c39cd2a1baa335af97c0294a805fda/etc/install/base/installjcl/BANK.csd,16,4
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/Z-OS-Connect-Payment-Interface,13,3
+/cicsdev/cics-banking-sample-application-cbsa/issues,9,7
+/cicsdev/cics-banking-sample-application-cbsa/tree/main/src/zosconnect_artefacts/apis/updacc/api/update/PUT,9,1
