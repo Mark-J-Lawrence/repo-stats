@@ -1,0 +1,5 @@
+url_path,views_total,views_unique
+/cicsdev/cicstg-jca-liberty-sample,12,8
+/cicsdev/cicstg-jca-liberty-sample/blob/main/server.xml,6,3
+/cicsdev/cicstg-jca-liberty-sample/tree/main/com/ibm/ctg/samples/liberty,5,2
+/cicsdev/cicstg-jca-liberty-sample/blob/main/com/ibm/ctg/samples/liberty/JCAServlet.java,2,1
