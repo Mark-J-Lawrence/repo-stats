@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cicsdev/cics-async-api-redbooks/tree/main/web-banking,8,3
+/cicsdev/cics-async-api-redbooks,6,6
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/etc/AccountServices/src/banking/BankAccounts.java,3,1
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/etc/AccountServices/src/banking/CustomerAccounts.java,3,1
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/etc/AsyncRedbooksWebBankingBundle/ACCTCURR.program,3,1
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/etc/AsyncRedbooksWebBankingBundle/META-INF/cics.xml,3,1
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/etc/zosptfile,3,1
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/README.md,3,1
+/cicsdev/cics-async-api-redbooks/blob/main/web-banking/src/ACCTCURR.cbl,3,1
+/cicsdev/cics-async-api-redbooks/tree/main/web-banking/etc/AsyncRedbooksWebBankingBundle,3,1
