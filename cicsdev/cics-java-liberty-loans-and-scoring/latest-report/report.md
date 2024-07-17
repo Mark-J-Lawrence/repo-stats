@@ -1,5 +1,5 @@
 % Statistics for cicsdev/cics-java-liberty-loans-and-scoring
-% Generated for [cicsdev/cics-java-liberty-loans-and-scoring](https://github.com/cicsdev/cics-java-liberty-loans-and-scoring) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-07-16 00:05 UTC.
+% Generated for [cicsdev/cics-java-liberty-loans-and-scoring](https://github.com/cicsdev/cics-java-liberty-loans-and-scoring) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-07-17 00:06 UTC.
 
 
 ## Views
@@ -84,7 +84,7 @@ Top 15 referrers: 01: `Google`, 02: `ibm.com`, 03: `getpocket.com`, 04: `conflue
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/main/projects`, 03: `/tree/main/projects/com.ibm.cicsdev.cicsjwt.builder.bundle`, 04: `/blob/main/src/Cobol/GETQUOTE.cbl`, 05: `/tree/main`, 06: `/blob/main/CICS-Paper-Using-the-Liberty-JWT-Feature-with-CICS.pdf`, 07: `/tree/main/src/Cobol`, 08: `/tree/main/projects/com.ibm.cicsdev.cicsjwt.builder.bundle/.settings`, 09: `/blob/main/README.md`, 10: `/tree/main/projects/com.ibm.cicsdev.cicsjwt.builder.bundle/META-INF`, 11: `/tree/main/projects/com.ibm.cicsdev.cicsjwt.consumer/WebContent/WEB-INF`, 12: `/tree/main/projects/com.ibm.cicsdev.cicsjwt.consumer/WebContent`, 13: `/blob/main/src/Cobol/GETSCORE.cbl`, 14: `/tree/main/projects/com.ibm.cicsdev.cicsjwt.consumer`, 15: `/blob/main/src/Cobol/JWTCLAIM.cpy`
+Top 15 paths: 01: `/`, 02: `/tree/main/projects`, 03: `/tree/main/projects/com.ibm.cicsdev.cicsjwt.builder.bundle`, 04: `/blob/main/src/Cobol/GETQUOTE.cbl`, 05: `/tree/main`, 06: `/blob/main/CICS-Paper-Using-the-Liberty-JWT-Feature-with-CICS.pdf`, 07: `/tree/main/src/Cobol`, 08: `/tree/main/etc`, 09: `/tree/main/projects/com.ibm.cicsdev.cicsjwt.consumer/WebContent/WEB-INF`, 10: `/blob/main/src/Cobol/JWTTOKEN.cpy`, 11: `/tree/main/projects/com.ibm.cicsdev.cicsjwt.builder.bundle/.settings`, 12: `/tree/main/projects/com.ibm.cicsdev.cicsjwt.consumer/WebContent`, 13: `/tree/main/projects/com.ibm.cicsdev.cicsjwt.builder.bundle/META-INF`, 14: `/blob/main/src/Cobol/JWTCLAIM.cpy`, 15: `/blob/main/README.md`
 
 
 <script type="text/javascript">
